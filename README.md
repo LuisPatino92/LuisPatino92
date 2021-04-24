@@ -1,6 +1,6 @@
 ## Hello World. I'm Lucho 👋
 
-<img src="./animation.gif" width="40" height="40" />
+![alt text](./animation.gif "Logo Title Text 1")
 
 I'm a software developer really proud of have started his coding journey at HolbertonSchool.
 
