@@ -1,6 +1,6 @@
 ## Hello World. I'm Lucho 👋
 
-![alt text](./animation.gif "Logo Title Text 1")
+![alt text](https://github.com/LuisPatino92/LuisPatino92/blob/main/Animation.gif "Logo Title Text 1")
 
 I'm a software developer really proud of have started his coding journey at HolbertonSchool.
 
